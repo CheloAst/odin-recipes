@@ -1,0 +1,26 @@
+body {
+    background-color: #ffffff;
+    margin: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1 {
+    background-color: #5456d8;
+    margin: 0;
+    padding: 2rem 2rem;
+}
+h2 {
+    color: #5456d8;
+    font-size: 26px;
+}
+a:link {
+    color: blue;
+}
+a:visited {
+    color: purple;
+}
+a:hover {
+    color: grey;
+}
+a:active {
+    color: green;
+}
